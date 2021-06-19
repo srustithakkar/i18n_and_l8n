@@ -1,0 +1,12 @@
+
+{
+    "translations": {
+
+        "author": {
+            "title1": "First Name :",
+            "title2": "Last Name :",
+            "password": "Password :"
+        }
+
+    }
+}
